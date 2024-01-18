@@ -17,5 +17,5 @@ Les résultats suggèrent que la méthode optimale consiste à choisir un fruit 
 
 ## Conclusion
 En conclusion, les résultats de cette analyse statistique du jeu "Mon Premier Verger" d'Haba indiquent que la méthode consistant à choisir le fruit sur l'arbre avec le plus d'unités présente une légère supériorité par rapport à la méthode du choix aléatoire. Cette constatation suggère une stratégie plus efficace pour maximiser les chances de victoire dans le jeu.
-Il est important de souligner que cette étude a également exploré l'évolution de la difficulté du jeu en fonction de la distance à laquelle le corbeau est placé. Cette dimension ajoute une perspective intéressante pour comprendre comment la variabilité de la mécanique du jeu peut influencer l'expérience globale, en particulier pour les jeunes joueurs de 2 ans et plus.
+Il est important de souligner que cette étude a également exploré l'évolution de la difficulté du jeu en fonction de la distance à laquelle le corbeau est placé. Cette dimension ajoute une perspective intéressante pour comprendre comment la variabilité de la mécanique du jeu peut influencer l'expérience globale.
 

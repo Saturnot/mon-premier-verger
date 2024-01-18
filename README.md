@@ -11,6 +11,7 @@ Les données ont été collectées simulant plusieurs millions de parties, en va
 
 ## Résultats
 ![Résultats](https://github.com/Saturnot/mon-premier-verger/assets/64526188/dd304d10-faeb-4b5a-8d61-3b3cb6dbd003)
+
 Les résultats suggèrent que la méthode optimale consiste à choisir un fruit avec le plus d'unités sur l'arbre. L'analyse a également exploré l'évolution de la difficulté en fonction de la distance à laquelle on place le corbeau.
 ![graph](https://github.com/Saturnot/mon-premier-verger/blob/main/graph.png)
 
